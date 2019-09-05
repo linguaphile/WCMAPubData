@@ -1,7 +1,7 @@
 { "version": "https://jsonfeed.org/version/1",
     "title": "My Example Event Feed",
-    "home_page_url": "https://example.org/",
-    "feed_url": "https://example.org/feed.json",
+    "home_page_url": "https://github.com/linguaphile/WCMAPubData/blob/master/eventsRSS.json",
+    "feed_url": "https://github.com/linguaphile/WCMAPubData/blob/master/eventsRSS.json",
     "items:": [
         {
             "eventId": 1510,
